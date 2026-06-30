@@ -1,0 +1,9 @@
+{
+  "latest_version": "1.0.1",
+  "changelog": [
+    "Added online update system",
+    "Fixed attendance scanning bug",
+    "Improved reports"
+  ],
+  "download_url": "https://attendance-updates.vercel.app/update.zip"
+}
