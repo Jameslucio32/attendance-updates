@@ -1,11 +1,14 @@
 {
   "latest_version": "1.0.1",
-  "changelog": [
-    "Added Online Update System",
-    "Fixed Attendance Scanning Bug",
-    "Improved Reports Module",
-    "Enhanced Dashboard Performance",
-    "Updated User Interface"
+"changelog": [
+    "📌 Create a backup of your system before updating.",
+    "📌 Close the application before installing the update.",
+    "📌 Do not modify or rename files inside the update package.",
+    "📌 Ensure a stable internet connection during download.",
+    "⚠ Student attendance records will remain unchanged.",
+    "⚠ Database structure will not be affected by this update.",
+    "⚠ Do not interrupt the update process once started.",
+    "⚠ Contact the administrator if any issues occur after updating."
   ],
   "download_url": "https://attendance-updates.vercel.app/update.zip"
 }
